@@ -1,0 +1,101 @@
+{
+  "product": "campfire",
+  "path": "/home/toxic/pens/ranch/products/campfire",
+  "files": 21,
+  "detected_at": "2026-10-30T06:11:06.058102Z",
+  "env_vars": {
+    "FLEET_POST": [
+      "src/poster.ts"
+    ],
+    "HOME": [
+      "src/greeter.ts",
+      "src/poster.ts",
+      "src/watcher.ts"
+    ],
+    "LOG_LEVEL": [
+      "src/logger.ts"
+    ],
+    "SENDER": [
+      "src/poster.ts"
+    ],
+    "SQUAWK": [
+      "src/poster.ts",
+      "src/watcher.ts"
+    ],
+    "SQUAWK_SENDER": [
+      "src/poster.ts"
+    ],
+    "backoffMs": [
+      "src/watcher.ts"
+    ],
+    "channel": [
+      "src/poster.ts"
+    ],
+    "emoji": [
+      "src/greeter.ts"
+    ],
+    "exit": [
+      "src/watcher.ts"
+    ],
+    "fieldStr": [
+      "src/logger.ts"
+    ],
+    "file": [
+      "src/poster.ts"
+    ],
+    "goal": [
+      "src/decision.ts"
+    ],
+    "hour": [
+      "src/room.ts"
+    ],
+    "lane": [
+      "src/connector.ts"
+    ],
+    "level": [
+      "src/logger.ts"
+    ],
+    "likelyKnower": [
+      "src/nudger.ts"
+    ],
+    "message": [
+      "src/poster.ts"
+    ],
+    "minConf": [
+      "src/decision.ts"
+    ],
+    "msg": [
+      "src/logger.ts"
+    ],
+    "path": [
+      "src/poster.ts"
+    ],
+    "sender": [
+      "src/brain.ts"
+    ],
+    "seq": [
+      "src/greeter.ts"
+    ],
+    "short": [
+      "src/nudger.ts"
+    ],
+    "spoolDir": [
+      "src/poster.ts"
+    ],
+    "stateDir": [
+      "src/greeter.ts"
+    ],
+    "task": [
+      "src/connector.ts"
+    ],
+    "topics": [
+      "src/connector.ts"
+    ],
+    "what": [
+      "src/brain.ts"
+    ],
+    "workspaceFolder": [
+      ".vscode/mcp.json"
+    ]
+  }
+}
